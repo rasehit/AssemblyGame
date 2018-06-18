@@ -1,8 +1,8 @@
-Compile flags:
+Compile options:
 	nasm -f elf64 <filemane>.asm
-Linking flags:
+Linking options:
 	ld -m elf_x86_64 <filename>.o -o <output>
-Startup flags:
+Startup options:
 	./<output> <mapname>.txt
 
 <mapname> - file which contains map for the game
