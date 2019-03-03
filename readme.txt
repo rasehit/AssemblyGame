@@ -6,4 +6,4 @@ Startup options:
 	./<output> <mapname>.txt
 
 <mapname> - file which contains map for the game
-In this version filed1.txt in the only one
+In this version filed1.txt is the only one
